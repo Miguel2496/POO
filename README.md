@@ -1,2 +1,8 @@
 # POO
-Indice
+
+#Indice
+
+#Practicas
+
+#Tareas
+
